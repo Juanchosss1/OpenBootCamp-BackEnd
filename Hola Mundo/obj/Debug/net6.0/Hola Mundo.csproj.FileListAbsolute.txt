@@ -1,0 +1,15 @@
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Hola Mundo\bin\Debug\net6.0\Hola Mundo.exe
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Hola Mundo\bin\Debug\net6.0\Hola Mundo.deps.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Hola Mundo\bin\Debug\net6.0\Hola Mundo.runtimeconfig.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Hola Mundo\bin\Debug\net6.0\Hola Mundo.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Hola Mundo\bin\Debug\net6.0\Hola Mundo.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Hola Mundo\obj\Debug\net6.0\Hola Mundo.csproj.AssemblyReference.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Hola Mundo\obj\Debug\net6.0\Hola Mundo.GeneratedMSBuildEditorConfig.editorconfig
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Hola Mundo\obj\Debug\net6.0\Hola Mundo.AssemblyInfoInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Hola Mundo\obj\Debug\net6.0\Hola Mundo.AssemblyInfo.cs
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Hola Mundo\obj\Debug\net6.0\Hola Mundo.csproj.CoreCompileInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Hola Mundo\obj\Debug\net6.0\Hola Mundo.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Hola Mundo\obj\Debug\net6.0\refint\Hola Mundo.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Hola Mundo\obj\Debug\net6.0\Hola Mundo.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Hola Mundo\obj\Debug\net6.0\Hola Mundo.genruntimeconfig.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Hola Mundo\obj\Debug\net6.0\ref\Hola Mundo.dll

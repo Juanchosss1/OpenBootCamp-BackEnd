@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YzLDy6O45FqJ4XQry2TzmWpxbf6eHnbgcIibYlMj7ZFJqJwz3YMM2kr67vVWEal1z0onOiatYzUuQkxhvW34gA==",
+  "success": true,
+  "projectFilePath": "D:\\OpenBootCamp\\OpenBootCamp-BackEnd\\Hola Mundo\\Hola Mundo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Negro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Negro\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Negro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Negro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
