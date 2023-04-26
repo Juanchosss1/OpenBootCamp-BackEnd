@@ -1,0 +1,15 @@
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Iteration\bin\Debug\net6.0\Iteration.exe
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Iteration\bin\Debug\net6.0\Iteration.deps.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Iteration\bin\Debug\net6.0\Iteration.runtimeconfig.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Iteration\bin\Debug\net6.0\Iteration.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Iteration\bin\Debug\net6.0\Iteration.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Iteration\obj\Debug\net6.0\Iteration.csproj.AssemblyReference.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Iteration\obj\Debug\net6.0\Iteration.GeneratedMSBuildEditorConfig.editorconfig
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Iteration\obj\Debug\net6.0\Iteration.AssemblyInfoInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Iteration\obj\Debug\net6.0\Iteration.AssemblyInfo.cs
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Iteration\obj\Debug\net6.0\Iteration.csproj.CoreCompileInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Iteration\obj\Debug\net6.0\Iteration.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Iteration\obj\Debug\net6.0\refint\Iteration.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Iteration\obj\Debug\net6.0\Iteration.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Iteration\obj\Debug\net6.0\Iteration.genruntimeconfig.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Iteration\obj\Debug\net6.0\ref\Iteration.dll
