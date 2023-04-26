@@ -1,0 +1,15 @@
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Estructuras\bin\Debug\net6.0\Estructuras.exe
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Estructuras\bin\Debug\net6.0\Estructuras.deps.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Estructuras\bin\Debug\net6.0\Estructuras.runtimeconfig.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Estructuras\bin\Debug\net6.0\Estructuras.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Estructuras\bin\Debug\net6.0\Estructuras.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Estructuras\obj\Debug\net6.0\Estructuras.csproj.AssemblyReference.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Estructuras\obj\Debug\net6.0\Estructuras.GeneratedMSBuildEditorConfig.editorconfig
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Estructuras\obj\Debug\net6.0\Estructuras.AssemblyInfoInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Estructuras\obj\Debug\net6.0\Estructuras.AssemblyInfo.cs
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Estructuras\obj\Debug\net6.0\Estructuras.csproj.CoreCompileInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Estructuras\obj\Debug\net6.0\Estructuras.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Estructuras\obj\Debug\net6.0\refint\Estructuras.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Estructuras\obj\Debug\net6.0\Estructuras.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Estructuras\obj\Debug\net6.0\Estructuras.genruntimeconfig.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Estructuras\obj\Debug\net6.0\ref\Estructuras.dll

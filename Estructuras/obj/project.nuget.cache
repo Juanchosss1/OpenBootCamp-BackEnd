@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "n6cUsruK/ZoeMGz8aI3ZISkSdMfaql+vxDE5Vn1U0Kov/WKdoz9v8SksGoJO65ZMcsQKuk0cHRR9Lgsh0GILMQ==",
+  "success": true,
+  "projectFilePath": "D:\\OpenBootCamp\\OpenBootCamp-BackEnd\\Estructuras\\Estructuras.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Negro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Negro\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Negro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Negro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
