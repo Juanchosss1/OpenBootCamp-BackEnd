@@ -7,6 +7,7 @@ Escribe una tabla de multiplicar del 1 al 10 para un número entero que recibe p
 1 x 10 = 10
 */
 
+/*
 Console.WriteLine("Enter a number: ");
 int multiplication = Convert.ToInt16(Console.ReadLine());
 int i = 1;
@@ -15,7 +16,7 @@ while(i <= 10)
     Console.Write($"{multiplication * i} ");
     i++;
 }
-
+*/
 
 /*
 Ejercicio 2 - Do while
@@ -25,36 +26,41 @@ Determine si el número es positivo o negativo
 Presente un contador para cada tipo (positivo y negativo).
 Nota: el cero se puede abordar en una clase adicional ya que no es ni positivo ni negativo. Tienes completa libertad para elegir el formato de la salida.
 */
-int num = 0;
-Console.WriteLine("Enter a number, 0 to exit: ");
-num = int.Parse(Console.ReadLine());
+
+
+/*
+CountNumbers();
+static void CountNumbers()
+{
+    int num = 0;
     int countPos = 0;
     int countNeg = 0;
-do
-{
 
-
-    if (num > 0)
+    do
     {
-        countPos++;
         Console.WriteLine("Enter a number, 0 to exit: ");
-    }
-    else if (num < 0)
-    {
-        countNeg++;
-        Console.WriteLine("Enter a number, 0 to exit: ");
-    }
-    else
-    {
-        Console.WriteLine("Fin de ejecucion");
-    }
-} while (num != 0);
-Console.WriteLine($"There are {countPos} positive numbers, and {countNeg} negative numbers");
+        num = int.Parse(Console.ReadLine());
 
+        if (num > 0)
+        {
+            countPos++;
+            Console.WriteLine("Number is positive.");
+        }
+        else if (num < 0)
+        {
+            countNeg++;
+            Console.WriteLine("Number is negative.");
+        }
+        else
+        {
+            Console.WriteLine("End of program.");
+        }
+    } while (num != 0);
 
+    Console.WriteLine($"There are {countPos} positive numbers and {countNeg} negative numbers.");
+}
 
-int isPositive = Convert.ToInt16(Console.ReadLine());
-
+*/
 
 /*
 Ejercicio 3 - For
@@ -85,3 +91,21 @@ Output:
 
 ***
 */
+
+using System;
+
+static void DrawRectangle(int width, int height, int repeat, bool full)
+{
+    Console.WriteLine("Enter width:");
+    width = int.Parse(Console.ReadLine());
+    for (int i = 0; i <= repeat; i++)
+    {
+        for(int j = 0; j <= height; j++) {
+        
+            for(int k = 0; k <= width; k++)
+            {
+                Console.WriteLine("*");
+            }
+        }
+    }
+}
