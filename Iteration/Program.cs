@@ -69,7 +69,8 @@ Reciba 3 datos:
 ancho
 alto
 relleno o no
-Dibuje en consola con un mismo caracter, por ejemplo *, un rectángulo de las dimensiones introducidas y use el tercer dato para discernir si el rectángulo está relleno (tiene más * dentro) o no.
+Dibuje en consola con un mismo caracter, por ejemplo *, un rectángulo de las dimensiones introducidas y use el tercer dato para discernir si 
+el rectángulo está relleno (tiene más * dentro) o no.
 En caso de recibir el mismo número n dos veces debe dibujar un cuadrado de lado n.
 Reto: Extiende el programa anterior para recibir otro número que sea el número de cuadrados o rectángulos que se deben dibujar en la pantalla. Ejemplos:
 Input: 2,2,2, relleno = true
@@ -94,18 +95,53 @@ Output:
 
 using System;
 
-static void DrawRectangle(int width, int height, int repeat, bool full)
+static void DrawRectangle()
 {
-    Console.WriteLine("Enter width:");
-    width = int.Parse(Console.ReadLine());
-    for (int i = 0; i <= repeat; i++)
+    Console.Write("Introduce el ancho: ");
+    int ancho = int.Parse(Console.ReadLine());
+
+    Console.Write("Introduce el alto: ");
+    int alto = int.Parse(Console.ReadLine());
+
+    Console.Write("¿Relleno (1) o no (0)? ");
+    int relleno = int.Parse(Console.ReadLine());
+
+    Console.Write("¿Cuántos rectángulos quieres dibujar? ");
+    int cantidad = int.Parse(Console.ReadLine());
+
+    for (int r = 1; r <= cantidad; r++)
     {
-        for(int j = 0; j <= height; j++) {
-        
-            for(int k = 0; k <= width; k++)
+        if (ancho == alto)
+        {
+            // Es un cuadrado
+            for (int i = 0; i < alto; i++)
             {
-                Console.WriteLine("*");
+                for (int j = 0; j < ancho; j++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+        }
+        else
+        {
+            // Es un rectángulo
+            for (int i = 0; i < alto; i++)
+            {
+                for (int j = 0; j < ancho; j++)
+                {
+                    if (relleno == 1 || i == 0 || j == 0 || i == alto - 1 || j == ancho - 1)
+                    {
+                        Console.Write("*");
+                    }
+                    else
+                    {
+                        Console.Write(" ");
+                    }
+                }
+                Console.WriteLine();
             }
         }
     }
 }
+DrawRectangle();
