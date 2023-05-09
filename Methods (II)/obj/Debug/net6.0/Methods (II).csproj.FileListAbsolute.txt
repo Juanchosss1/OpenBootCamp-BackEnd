@@ -1,0 +1,15 @@
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods (II)\bin\Debug\net6.0\Methods (II).exe
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods (II)\bin\Debug\net6.0\Methods (II).deps.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods (II)\bin\Debug\net6.0\Methods (II).runtimeconfig.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods (II)\bin\Debug\net6.0\Methods (II).dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods (II)\bin\Debug\net6.0\Methods (II).pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods (II)\obj\Debug\net6.0\Methods (II).csproj.AssemblyReference.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods (II)\obj\Debug\net6.0\Methods (II).GeneratedMSBuildEditorConfig.editorconfig
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods (II)\obj\Debug\net6.0\Methods (II).AssemblyInfoInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods (II)\obj\Debug\net6.0\Methods (II).AssemblyInfo.cs
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods (II)\obj\Debug\net6.0\Methods (II).csproj.CoreCompileInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods (II)\obj\Debug\net6.0\Methods (II).dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods (II)\obj\Debug\net6.0\refint\Methods (II).dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods (II)\obj\Debug\net6.0\Methods (II).pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods (II)\obj\Debug\net6.0\Methods (II).genruntimeconfig.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods (II)\obj\Debug\net6.0\ref\Methods (II).dll
