@@ -1,0 +1,15 @@
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods()III\obj\Debug\net7.0\Methods()III.csproj.AssemblyReference.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods()III\obj\Debug\net7.0\Methods()III.GeneratedMSBuildEditorConfig.editorconfig
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods()III\obj\Debug\net7.0\Methods()III.AssemblyInfoInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods()III\obj\Debug\net7.0\Methods()III.AssemblyInfo.cs
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods()III\obj\Debug\net7.0\Methods()III.csproj.CoreCompileInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods()III\bin\Debug\net7.0\Methods()III.exe
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods()III\bin\Debug\net7.0\Methods()III.deps.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods()III\bin\Debug\net7.0\Methods()III.runtimeconfig.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods()III\bin\Debug\net7.0\Methods()III.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods()III\bin\Debug\net7.0\Methods()III.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods()III\obj\Debug\net7.0\Methods()III.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods()III\obj\Debug\net7.0\refint\Methods()III.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods()III\obj\Debug\net7.0\Methods()III.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods()III\obj\Debug\net7.0\Methods()III.genruntimeconfig.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Methods()III\obj\Debug\net7.0\ref\Methods()III.dll
