@@ -1,0 +1,15 @@
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Classes and Objects (III)\obj\Debug\net7.0\Classes and Objects (III).csproj.AssemblyReference.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Classes and Objects (III)\obj\Debug\net7.0\Classes and Objects (III).GeneratedMSBuildEditorConfig.editorconfig
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Classes and Objects (III)\obj\Debug\net7.0\Classes and Objects (III).AssemblyInfoInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Classes and Objects (III)\obj\Debug\net7.0\Classes and Objects (III).AssemblyInfo.cs
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Classes and Objects (III)\obj\Debug\net7.0\Classes and Objects (III).csproj.CoreCompileInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Classes and Objects (III)\bin\Debug\net7.0\Classes and Objects (III).exe
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Classes and Objects (III)\bin\Debug\net7.0\Classes and Objects (III).deps.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Classes and Objects (III)\bin\Debug\net7.0\Classes and Objects (III).runtimeconfig.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Classes and Objects (III)\bin\Debug\net7.0\Classes and Objects (III).dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Classes and Objects (III)\bin\Debug\net7.0\Classes and Objects (III).pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Classes and Objects (III)\obj\Debug\net7.0\Classes and Objects (III).dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Classes and Objects (III)\obj\Debug\net7.0\refint\Classes and Objects (III).dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Classes and Objects (III)\obj\Debug\net7.0\Classes and Objects (III).pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Classes and Objects (III)\obj\Debug\net7.0\Classes and Objects (III).genruntimeconfig.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Classes and Objects (III)\obj\Debug\net7.0\ref\Classes and Objects (III).dll
