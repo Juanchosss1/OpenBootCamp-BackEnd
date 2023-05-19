@@ -1,0 +1,15 @@
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Abstraction, Interfaces, Encapsulation\obj\Debug\net7.0\Abstraction, Interfaces, Encapsulation.csproj.AssemblyReference.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Abstraction, Interfaces, Encapsulation\obj\Debug\net7.0\Abstraction, Interfaces, Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Abstraction, Interfaces, Encapsulation\obj\Debug\net7.0\Abstraction, Interfaces, Encapsulation.AssemblyInfoInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Abstraction, Interfaces, Encapsulation\obj\Debug\net7.0\Abstraction, Interfaces, Encapsulation.AssemblyInfo.cs
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Abstraction, Interfaces, Encapsulation\obj\Debug\net7.0\Abstraction, Interfaces, Encapsulation.csproj.CoreCompileInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Abstraction, Interfaces, Encapsulation\bin\Debug\net7.0\Abstraction, Interfaces, Encapsulation.exe
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Abstraction, Interfaces, Encapsulation\bin\Debug\net7.0\Abstraction, Interfaces, Encapsulation.deps.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Abstraction, Interfaces, Encapsulation\bin\Debug\net7.0\Abstraction, Interfaces, Encapsulation.runtimeconfig.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Abstraction, Interfaces, Encapsulation\bin\Debug\net7.0\Abstraction, Interfaces, Encapsulation.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Abstraction, Interfaces, Encapsulation\bin\Debug\net7.0\Abstraction, Interfaces, Encapsulation.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Abstraction, Interfaces, Encapsulation\obj\Debug\net7.0\Abstraction, Interfaces, Encapsulation.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Abstraction, Interfaces, Encapsulation\obj\Debug\net7.0\refint\Abstraction, Interfaces, Encapsulation.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Abstraction, Interfaces, Encapsulation\obj\Debug\net7.0\Abstraction, Interfaces, Encapsulation.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Abstraction, Interfaces, Encapsulation\obj\Debug\net7.0\Abstraction, Interfaces, Encapsulation.genruntimeconfig.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Abstraction, Interfaces, Encapsulation\obj\Debug\net7.0\ref\Abstraction, Interfaces, Encapsulation.dll
