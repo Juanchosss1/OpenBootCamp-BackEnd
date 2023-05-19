@@ -1,0 +1,15 @@
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Collections\bin\Debug\net7.0\Collections.exe
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Collections\bin\Debug\net7.0\Collections.deps.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Collections\bin\Debug\net7.0\Collections.runtimeconfig.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Collections\bin\Debug\net7.0\Collections.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Collections\bin\Debug\net7.0\Collections.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Collections\obj\Debug\net7.0\Collections.csproj.AssemblyReference.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Collections\obj\Debug\net7.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Collections\obj\Debug\net7.0\Collections.AssemblyInfoInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Collections\obj\Debug\net7.0\Collections.AssemblyInfo.cs
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Collections\obj\Debug\net7.0\Collections.csproj.CoreCompileInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Collections\obj\Debug\net7.0\Collections.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Collections\obj\Debug\net7.0\refint\Collections.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Collections\obj\Debug\net7.0\Collections.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Collections\obj\Debug\net7.0\Collections.genruntimeconfig.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Collections\obj\Debug\net7.0\ref\Collections.dll
