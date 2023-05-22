@@ -1,0 +1,15 @@
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Async\bin\Debug\net7.0\Async.exe
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Async\bin\Debug\net7.0\Async.deps.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Async\bin\Debug\net7.0\Async.runtimeconfig.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Async\bin\Debug\net7.0\Async.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Async\bin\Debug\net7.0\Async.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Async\obj\Debug\net7.0\Async.csproj.AssemblyReference.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Async\obj\Debug\net7.0\Async.GeneratedMSBuildEditorConfig.editorconfig
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Async\obj\Debug\net7.0\Async.AssemblyInfoInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Async\obj\Debug\net7.0\Async.AssemblyInfo.cs
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Async\obj\Debug\net7.0\Async.csproj.CoreCompileInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Async\obj\Debug\net7.0\Async.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Async\obj\Debug\net7.0\refint\Async.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Async\obj\Debug\net7.0\Async.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Async\obj\Debug\net7.0\Async.genruntimeconfig.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Async\obj\Debug\net7.0\ref\Async.dll
