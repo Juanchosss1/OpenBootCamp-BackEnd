@@ -1,0 +1,15 @@
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Exceptions\bin\Debug\net7.0\Exceptions.exe
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Exceptions\bin\Debug\net7.0\Exceptions.deps.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Exceptions\bin\Debug\net7.0\Exceptions.runtimeconfig.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Exceptions\bin\Debug\net7.0\Exceptions.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Exceptions\bin\Debug\net7.0\Exceptions.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Exceptions\obj\Debug\net7.0\Exceptions.csproj.AssemblyReference.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Exceptions\obj\Debug\net7.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Exceptions\obj\Debug\net7.0\Exceptions.AssemblyInfoInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Exceptions\obj\Debug\net7.0\Exceptions.AssemblyInfo.cs
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Exceptions\obj\Debug\net7.0\Exceptions.csproj.CoreCompileInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Exceptions\obj\Debug\net7.0\Exceptions.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Exceptions\obj\Debug\net7.0\refint\Exceptions.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Exceptions\obj\Debug\net7.0\Exceptions.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Exceptions\obj\Debug\net7.0\Exceptions.genruntimeconfig.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Exceptions\obj\Debug\net7.0\ref\Exceptions.dll
