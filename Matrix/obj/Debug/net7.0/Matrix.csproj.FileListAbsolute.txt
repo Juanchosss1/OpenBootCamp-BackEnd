@@ -1,0 +1,15 @@
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Matrix\bin\Debug\net7.0\Matrix.exe
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Matrix\bin\Debug\net7.0\Matrix.deps.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Matrix\bin\Debug\net7.0\Matrix.runtimeconfig.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Matrix\bin\Debug\net7.0\Matrix.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Matrix\bin\Debug\net7.0\Matrix.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Matrix\obj\Debug\net7.0\Matrix.csproj.AssemblyReference.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Matrix\obj\Debug\net7.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Matrix\obj\Debug\net7.0\Matrix.AssemblyInfoInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Matrix\obj\Debug\net7.0\Matrix.AssemblyInfo.cs
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Matrix\obj\Debug\net7.0\Matrix.csproj.CoreCompileInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Matrix\obj\Debug\net7.0\Matrix.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Matrix\obj\Debug\net7.0\refint\Matrix.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Matrix\obj\Debug\net7.0\Matrix.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Matrix\obj\Debug\net7.0\Matrix.genruntimeconfig.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Matrix\obj\Debug\net7.0\ref\Matrix.dll
