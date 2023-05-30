@@ -1,0 +1,15 @@
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Sort and Complexy\bin\Debug\net7.0\Sort and Complexy.exe
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Sort and Complexy\bin\Debug\net7.0\Sort and Complexy.deps.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Sort and Complexy\bin\Debug\net7.0\Sort and Complexy.runtimeconfig.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Sort and Complexy\bin\Debug\net7.0\Sort and Complexy.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Sort and Complexy\bin\Debug\net7.0\Sort and Complexy.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Sort and Complexy\obj\Debug\net7.0\Sort and Complexy.csproj.AssemblyReference.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Sort and Complexy\obj\Debug\net7.0\Sort and Complexy.GeneratedMSBuildEditorConfig.editorconfig
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Sort and Complexy\obj\Debug\net7.0\Sort and Complexy.AssemblyInfoInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Sort and Complexy\obj\Debug\net7.0\Sort and Complexy.AssemblyInfo.cs
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Sort and Complexy\obj\Debug\net7.0\Sort and Complexy.csproj.CoreCompileInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Sort and Complexy\obj\Debug\net7.0\Sort and Complexy.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Sort and Complexy\obj\Debug\net7.0\refint\Sort and Complexy.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Sort and Complexy\obj\Debug\net7.0\Sort and Complexy.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Sort and Complexy\obj\Debug\net7.0\Sort and Complexy.genruntimeconfig.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Sort and Complexy\obj\Debug\net7.0\ref\Sort and Complexy.dll

@@ -1,0 +1,15 @@
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Events\bin\Debug\net7.0\Events.exe
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Events\bin\Debug\net7.0\Events.deps.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Events\bin\Debug\net7.0\Events.runtimeconfig.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Events\bin\Debug\net7.0\Events.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Events\bin\Debug\net7.0\Events.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Events\obj\Debug\net7.0\Events.csproj.AssemblyReference.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Events\obj\Debug\net7.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Events\obj\Debug\net7.0\Events.AssemblyInfoInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Events\obj\Debug\net7.0\Events.AssemblyInfo.cs
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Events\obj\Debug\net7.0\Events.csproj.CoreCompileInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Events\obj\Debug\net7.0\Events.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Events\obj\Debug\net7.0\refint\Events.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Events\obj\Debug\net7.0\Events.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Events\obj\Debug\net7.0\Events.genruntimeconfig.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Events\obj\Debug\net7.0\ref\Events.dll
