@@ -1,0 +1,15 @@
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Introduccion a la programacion - Ejercicio-3\bin\Debug\net7.0\Introduccion a la programacion - Ejercicio-3.exe
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Introduccion a la programacion - Ejercicio-3\bin\Debug\net7.0\Introduccion a la programacion - Ejercicio-3.deps.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Introduccion a la programacion - Ejercicio-3\bin\Debug\net7.0\Introduccion a la programacion - Ejercicio-3.runtimeconfig.json
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Introduccion a la programacion - Ejercicio-3\bin\Debug\net7.0\Introduccion a la programacion - Ejercicio-3.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Introduccion a la programacion - Ejercicio-3\bin\Debug\net7.0\Introduccion a la programacion - Ejercicio-3.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Introduccion a la programacion - Ejercicio-3\obj\Debug\net7.0\Introduccion a la programacion - Ejercicio-3.csproj.AssemblyReference.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Introduccion a la programacion - Ejercicio-3\obj\Debug\net7.0\Introduccion a la programacion - Ejercicio-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Introduccion a la programacion - Ejercicio-3\obj\Debug\net7.0\Introduccion a la programacion - Ejercicio-3.AssemblyInfoInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Introduccion a la programacion - Ejercicio-3\obj\Debug\net7.0\Introduccion a la programacion - Ejercicio-3.AssemblyInfo.cs
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Introduccion a la programacion - Ejercicio-3\obj\Debug\net7.0\Introduccion a la programacion - Ejercicio-3.csproj.CoreCompileInputs.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Introduccion a la programacion - Ejercicio-3\obj\Debug\net7.0\Introduccion a la programacion - Ejercicio-3.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Introduccion a la programacion - Ejercicio-3\obj\Debug\net7.0\refint\Introduccion a la programacion - Ejercicio-3.dll
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Introduccion a la programacion - Ejercicio-3\obj\Debug\net7.0\Introduccion a la programacion - Ejercicio-3.pdb
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Introduccion a la programacion - Ejercicio-3\obj\Debug\net7.0\Introduccion a la programacion - Ejercicio-3.genruntimeconfig.cache
+D:\OpenBootCamp\OpenBootCamp-BackEnd\Introduccion a la programacion - Ejercicio-3\obj\Debug\net7.0\ref\Introduccion a la programacion - Ejercicio-3.dll

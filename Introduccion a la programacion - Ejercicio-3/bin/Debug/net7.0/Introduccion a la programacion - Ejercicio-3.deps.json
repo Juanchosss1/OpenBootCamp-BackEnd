@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Introduccion a la programacion - Ejercicio-3/1.0.0": {
+        "runtime": {
+          "Introduccion a la programacion - Ejercicio-3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Introduccion a la programacion - Ejercicio-3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
