@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dyj+IDzxLe5/sIOV4OVFaB7xxtbQz70xvl2/jbLh19Ktw4dfP2LqzBvblmbYrvZxrO0ESm9AzYfpUg3EovNMLQ==",
+  "dgSpecHash": "ItJ8rgR4p8m9CCR/v6kDrqZTxwn3QWxoCycOu/UlhOLJ7BQbJzfhgiUwnIx8JvKpDf3nB+GI2JIkTFarwYxQgg==",
   "success": true,
-  "projectFilePath": "D:\\OpenBootCamp\\NETCore-API\\University\\universityApiBackEnd\\universityApiBackEnd.csproj",
+  "projectFilePath": "D:\\OpenBootCamp\\OpenBootCamp-BackEnd\\NETCore-API\\University\\universityApiBackEnd\\universityApiBackEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Negro\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Negro\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

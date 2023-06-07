@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OpenBootCamp\\NETCore-API\\University\\universityApiBackEnd\\universityApiBackEnd.csproj": {}
+    "D:\\OpenBootCamp\\OpenBootCamp-BackEnd\\NETCore-API\\University\\universityApiBackEnd\\universityApiBackEnd.csproj": {}
   },
   "projects": {
-    "D:\\OpenBootCamp\\NETCore-API\\University\\universityApiBackEnd\\universityApiBackEnd.csproj": {
+    "D:\\OpenBootCamp\\OpenBootCamp-BackEnd\\NETCore-API\\University\\universityApiBackEnd\\universityApiBackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OpenBootCamp\\NETCore-API\\University\\universityApiBackEnd\\universityApiBackEnd.csproj",
+        "projectUniqueName": "D:\\OpenBootCamp\\OpenBootCamp-BackEnd\\NETCore-API\\University\\universityApiBackEnd\\universityApiBackEnd.csproj",
         "projectName": "universityApiBackEnd",
-        "projectPath": "D:\\OpenBootCamp\\NETCore-API\\University\\universityApiBackEnd\\universityApiBackEnd.csproj",
+        "projectPath": "D:\\OpenBootCamp\\OpenBootCamp-BackEnd\\NETCore-API\\University\\universityApiBackEnd\\universityApiBackEnd.csproj",
         "packagesPath": "C:\\Users\\Negro\\.nuget\\packages\\",
-        "outputPath": "D:\\OpenBootCamp\\NETCore-API\\University\\universityApiBackEnd\\obj\\",
+        "outputPath": "D:\\OpenBootCamp\\OpenBootCamp-BackEnd\\NETCore-API\\University\\universityApiBackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Negro\\AppData\\Roaming\\NuGet\\NuGet.Config",
