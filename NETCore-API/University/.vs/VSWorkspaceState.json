@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\universityApiBackEnd",
+    "\\universityApiBackEnd\\DataAccess",
+    "\\universityApiBackEnd\\Models",
+    "\\universityApiBackEnd\\Models\\DataModels"
+  ],
+  "SelectedNode": "\\universityApiBackEnd\\Models\\DataModels\\Curso.cs",
+  "PreviewInSolutionExplorer": false
+}

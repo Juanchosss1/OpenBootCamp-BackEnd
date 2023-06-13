@@ -20,7 +20,7 @@ public class Person : IPerson
     AskLastName();
     AskDrive();
     }
-    public string Name { get; set; }
+    //public string Name { get; set; }
     public string LastName { get; set; }
     public DateOnly Birthday { get; set; }
     public bool knowDrive { get; set; }
