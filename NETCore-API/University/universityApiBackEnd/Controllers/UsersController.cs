@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using universityApiBackEnd.DataAccess;
 using universityApiBackEnd.Models.DataModels;
+using universityApiBackEnd.Services;
 
 namespace universityApiBackEnd.Controllers
 {
@@ -47,6 +48,18 @@ namespace universityApiBackEnd.Controllers
                 return NotFound();
             }
 
+            return user;
+        }
+        // GET: api/Users/5
+        [HttpGet("email/{email}")]
+        public async Task<ActionResult<User>> GetUserByMail(string email)
+        {
+
+            if (string.IsNullOrEmpty(email))
+            {
+                return BadRequest("Enter a valid Mail");
+            }
+            var user = await GetUserByMail(email);
             return user;
         }
 
